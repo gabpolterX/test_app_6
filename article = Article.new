@@ -1,0 +1,13 @@
+=> 
+[[32m#<Article:0x0000021c3edcdac8[0m
+  id: [34m[1m1[0m,
+  title: [36m[1mnil[0m,
+  description: [36m[1mnil[0m,
+  created_at: [31m[1m"[0m[31m2024-10-23 18:29:18.230084000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-23 18:29:18.230084000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x0000021c3edcd988[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mfirst article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mIm just testing xd, but this is the first article[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-23 18:33:30.597075000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-23 18:33:30.597075000 +0000[0m[31m[1m"[0m[32m>[0m]
