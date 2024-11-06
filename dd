@@ -1,0 +1,43 @@
+=> 
+[[32m#<Article:0x000002773a976ab8[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mfirst article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31medited - description of the Article1[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-23 18:33:30.597075000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-23 19:08:43.425735000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000002773a4fa160[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mArticle2[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31medited - description of second article[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-23 18:45:02.400789000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-23 19:01:23.638765000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000002773a4f9ee0[0m
+  id: [34m[1m7[0m,
+  title: [31m[1m"[0m[31ma[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mb[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-24 19:08:10.598548000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-24 19:08:10.598548000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000002773a4f9da0[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mthis is the testing article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mthis should pass too xd[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-24 19:26:10.713753000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-24 19:26:10.713753000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000002773a4f9c60[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mpro article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mpro article description[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-30 09:17:41.543722000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-30 09:17:41.543722000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000002773a4f99e0[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mArticle test[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mredirect article test[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-30 09:23:23.944198000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-30 09:23:23.944198000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000002773a4f98a0[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mtesting title[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mtest title[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-30 09:38:11.227361000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-30 09:38:11.227361000 +0000[0m[31m[1m"[0m[32m>[0m]
