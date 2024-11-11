@@ -39,3 +39,64 @@ Author: Gabriel Castro <gabocastrosemper28@gmail.com>
 Date:   Tue Sep 17 13:12:13 2024 -0500
 
     Initial commit and add root route2
+=> 
+[[32m#<Article:0x000001ee5ab6a310[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mfirst article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31medited - description of the Article1[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-23 18:33:30.597075000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-23 19:08:43.425735000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f07e48[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mArticle2[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31medited2 - description of second article[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-23 18:45:02.400789000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-11-06 15:59:15.218267000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f07bc8[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mthis is the testing article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mthis should pass too xd[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-24 19:26:10.713753000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-24 19:26:10.713753000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f07a88[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mpro article[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mpro article description[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-30 09:17:41.543722000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-30 09:17:41.543722000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f07948[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mArticle test[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mredirect article test[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-30 09:23:23.944198000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-30 09:23:23.944198000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f076c8[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mtesting title[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mtest title[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-30 09:38:11.227361000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-30 09:38:11.227361000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f07448[0m
+  id: [34m[1m12[0m,
+  title: [31m[1m"[0m[31mShortemed path[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mi only put redirect_to @article[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-30 09:43:12.932882000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-30 09:43:12.932882000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f071c8[0m
+  id: [34m[1m13[0m,
+  title: [31m[1m"[0m[31mTest article creation[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mtest article creation successfully[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-31 22:18:10.976119000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-31 22:18:10.976119000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f07088[0m
+  id: [34m[1m14[0m,
+  title: [31m[1m"[0m[31mTesting again[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mBro really think that can do it[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-31 22:19:37.260227000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-31 22:19:37.260227000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Article:0x000001ee58f06f48[0m
+  id: [34m[1m15[0m,
+  title: [31m[1m"[0m[31mflash message[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mFlash message description(im testing(im a ruby dev...[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-31 22:25:29.063975000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-31 22:25:29.063975000 +0000[0m[31m[1m"[0m[32m>[0m]
