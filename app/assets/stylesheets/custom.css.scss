@@ -1,3 +1,48 @@
-.navbar {
-    background-color: blue !important;
-  }
+.navbar{
+    background-color: black !important;
+}
+.navbar-brand{
+    float: left;
+    font-size: 1.7em;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: lightblue !important;
+}
+.nav-link{
+    color: white !important;
+}
+.jumbotron{
+    background-image: asset-url('fondo-new-york2.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 625px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+#home-container{
+    margin-top: 25px;
+}
+p{
+    color: black;
+}
+h1{
+    color: black;
+}
+.BodyHome{
+    background-color: lightgray;
+}
+.botonCE{
+    width: 160px;
+}
