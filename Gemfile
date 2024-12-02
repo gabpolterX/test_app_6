@@ -59,3 +59,4 @@ end
 gem "bootstrap"
 gem "sassc-rails", "~> 2.1"
 gem "sass-rails"
+gem "will_paginate"
